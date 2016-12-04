@@ -16,6 +16,8 @@
     "node": "4.5.0"
   },
   "dependencies": {
+    "config": "^1.24.0",
+    "ejs": "^2.5.3",
     "express": "4.13.4",
     "morgan": "^1.7.0"
   }
