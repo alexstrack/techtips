@@ -1,2 +1,2 @@
 # techtips
-App to register tech tips from different sources.
+Webapp to register tech tips from different sources.
